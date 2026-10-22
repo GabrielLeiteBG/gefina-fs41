@@ -35,7 +35,7 @@ const invoices: Invoice[] = [
     customer: {
       id: 2,
       name: 'Gráfica Nova',
-      email: 'grafica@nova.com.br'
+      email: 'nova@grafica.com.br'
     }
   },
   {
